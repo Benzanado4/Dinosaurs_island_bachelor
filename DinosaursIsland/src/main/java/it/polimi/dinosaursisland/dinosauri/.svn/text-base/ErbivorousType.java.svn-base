@@ -1,0 +1,12 @@
+package it.polimi.dinosaursisland.dinosauri;
+
+public class ErbivorousType extends Type {
+
+    //Costruttore
+    public ErbivorousType(String name, Erbivorous first) {
+        dinos.add(first);
+        SetName(name);
+        setFullVisual();
+
+    }
+}

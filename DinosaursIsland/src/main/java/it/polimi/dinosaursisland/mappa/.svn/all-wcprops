@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/717303/!svn/ver/55/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa
+END
+Vegetation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/717303/!svn/ver/71/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/Vegetation.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/717303/!svn/ver/71/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/Map.java
+END
+Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/717303/!svn/ver/71/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/Box.java
+END
+Mappa.ucd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/717303/!svn/ver/12/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/Mappa.ucd
+END
+Carrion.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/717303/!svn/ver/71/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/Carrion.java
+END
+GroundBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/717303/!svn/ver/39/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/GroundBox.java
+END
+WaterBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/717303/!svn/ver/12/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/mappa/WaterBox.java
+END

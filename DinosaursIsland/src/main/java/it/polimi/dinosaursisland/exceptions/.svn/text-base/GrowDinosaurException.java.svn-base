@@ -1,0 +1,24 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package it.polimi.dinosaursisland.exceptions;
+
+import javax.print.attribute.Size2DSyntax;
+
+/**
+ *
+ * @author bear
+ */
+public class GrowDinosaurException extends Exception{
+    
+    private int newSize;
+    
+    public GrowDinosaurException(int newSize){
+        this.newSize=newSize;
+    }
+    
+    public int returnNewSize(){
+        return newSize;
+    }
+}

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/717303/!svn/ver/108/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui
+END
+NewUserBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/717303/!svn/ver/78/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/NewUserBox.java
+END
+ClientGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/717303/!svn/ver/108/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/ClientGui.java
+END
+DinosaurMoveBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/717303/!svn/ver/78/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/DinosaurMoveBox.java
+END
+ButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/717303/!svn/ver/106/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/ButtonListener.java
+END
+CreateTypeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/717303/!svn/ver/78/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/CreateTypeBox.java
+END
+DinoChoiceBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/717303/!svn/ver/106/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/DinoChoiceBox.java
+END
+LoginBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/717303/!svn/ver/78/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/LoginBox.java
+END
+MapFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/717303/!svn/ver/77/DinosaursIsland/src/main/java/it/polimi/dinosaursisland/gui/MapFrame.java
+END
